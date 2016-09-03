@@ -12,4 +12,4 @@ Starting a flask application
 9. pip install -r pip-requirements.txt
 10. python run.py
 
-Go to loccalhost:5000 in a web browser
+Go to localhost:5000 in a web browser
