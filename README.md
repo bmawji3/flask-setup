@@ -7,7 +7,7 @@
 3. `git remote add origin https://github.com/bmawji3/flask-setup`
 4. `git remote -v`
 5. `pip install virtualenv`
-6. `virtualenv -p python2 flask`
+6. `virtualenv -p python3 flask`
 7. `source flask/bin/activate`
 8. `git pull origin master`
 9. `pip install -r pip-requirements.txt`
